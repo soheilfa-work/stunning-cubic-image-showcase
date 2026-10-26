@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "stunning-cubic-image-showcase",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,11 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "gsap": "^3.15.0",
     "next": "16.4.2",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
     "@tailwindcss/turbopack": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
