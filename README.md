@@ -4,7 +4,7 @@ An interactive, full-screen image showcase built from a 12 × 9 grid of 3D cubes
 
 ## Live Demo
 
-**[View the live demo](https://YOUR-DEMO-URL-HERE)**
+**https://stunning-cubic-image-showcase.vercel.app/**
 
 > Replace the link above with your deployed URL (for example, your Vercel deployment).
 
@@ -84,12 +84,12 @@ See [PERFORMANCE_NOTES.md](./PERFORMANCE_NOTES.md) for the full list.
 
 ## Scripts
 
-| Command | Description |
-| --- | --- |
-| `npm run dev` | Start the dev server |
+| Command         | Description               |
+| --------------- | ------------------------- |
+| `npm run dev`   | Start the dev server      |
 | `npm run build` | Create a production build |
-| `npm start` | Run the production build |
-| `npm run lint` | Lint the project |
+| `npm start`     | Run the production build  |
+| `npm run lint`  | Lint the project          |
 
 ## License
 
